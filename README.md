@@ -383,6 +383,7 @@ _Helpers that make automations easier to write, debug, and maintain._
 - [Auto Backup](https://github.com/jcwillox/hass-auto-backup) - Automate backups with custom schedules, retention rules, encryption, and uploads to remote storage (465★).
 - [Multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (451★).
 - [Retry Service](https://github.com/amitfin/retry) - Wraps any service call so transient failures retry automatically with exponential backoff (176★).
+- [Resource Queue Manager](https://github.com/HamzaKarfa/Resource-Queue-Manager) - Coordinate concurrent automations with capacity-limited FIFO, LIFO, and priority queues.
 
 ### 🏘️ Civic & household
 
